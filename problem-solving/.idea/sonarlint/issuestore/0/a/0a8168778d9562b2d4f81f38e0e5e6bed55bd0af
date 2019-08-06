@@ -1,0 +1,10 @@
+
+[squid:S1197"8Move the array designator from the variable to the type.(¤îŞÇÿÿÿÿÿ8ÈĞ®¡Ä-
+Nsquid:S1481"+Remove this unused "length" local variable.(øº±üÿÿÿÿ8ÈĞ®¡Ä-
+Wsquid:S3400"9Remove this method and declare a constant for this value.(”·³›8ÈĞ®¡Ä-
+Csquid:S1172"&Remove these unused method parameters.(–Îê|8ÈĞ®¡Ä-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚é€Şûÿÿÿÿ8ÈĞ®¡Ä-
+]squid:S1854":Remove this useless assignment to local variable "length".(øº±üÿÿÿÿ8ÈĞ®¡Ä-
+[squid:S1197"8Move the array designator from the variable to the type.(õ¼¨ìøÿÿÿÿ8ÈĞ®¡Ä-
+squid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ8ÈĞ®¡Ä-

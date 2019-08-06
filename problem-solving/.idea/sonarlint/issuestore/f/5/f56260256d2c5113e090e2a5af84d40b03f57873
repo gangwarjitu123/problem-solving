@@ -1,0 +1,8 @@
+
+Xsquid:S1854":Remove this useless assignment to local variable "target".(÷¸ÕÑ8Äø¶äÃ-
+Asquid:S1659#"#Declare "right" on a separate line.(çùà¶8ÃÎ±äÃ-
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(·¬îŞûÿÿÿÿ8ìŠºäÃ-
+[squid:S1197"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ8Ş³äÃ-
+Isquid:S1481"+Remove this unused "target" local variable.(÷¸ÕÑ8Äø¶äÃ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡İÖ8ØĞÔ—Ä-

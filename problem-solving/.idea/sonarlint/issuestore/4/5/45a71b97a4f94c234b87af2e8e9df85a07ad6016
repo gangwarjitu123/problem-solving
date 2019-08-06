@@ -1,0 +1,21 @@
+
+ssquid:S1149O"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ôÙ¿âüÿÿÿÿ8·íĞõÄ-
+[
+squid:S106M"9Replace this use of System.out or System.err by a logger.(øÈÉ‹ûÿÿÿÿ8Œ•¤öÄ-
+[
+squid:S106U"9Replace this use of System.out or System.err by a logger.(·¶ûÆúÿÿÿÿ8¾¶öÄ-
+[
+squid:S106X"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8×Ï¢öÄ-
+fsquid:UselessImportCheck"6Remove this unused import 'java.awt.dnd.DnDConstants'.(¼ØÀ¸øÿÿÿÿ8’ˆŒöÄ-
+ssquid:S1149N"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÍŠ¹´şÿÿÿÿ8¡ÏõÄ-
+[
+squid:S106@"9Replace this use of System.out or System.err by a logger.(‹¯šùÿÿÿÿ8¾ÓÁñÄ-
+ssquid:S1149h"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(÷âËúÿÿÿÿ8¬î¢öÄ-
+[
+squid:S1063"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8…ÙÇñÄ-
+[
+squid:S106a"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¬î¢öÄ-
+{
+squid:S135 "YReduce the total number of break and continue statements in this loop to use at most one.(û•üÿÿÿÿ8‘”ñÄ-
+[
+squid:S106^"9Replace this use of System.out or System.err by a logger.(·¶ûÆúÿÿÿÿ8ŒÌŸöÄ-

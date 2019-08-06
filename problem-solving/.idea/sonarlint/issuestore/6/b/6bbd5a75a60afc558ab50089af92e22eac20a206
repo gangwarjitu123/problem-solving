@@ -1,0 +1,10 @@
+
+O
+squid:S106/"9Replace this use of System.out or System.err by a logger.(Îâ‰é
+Usquid:S1155-">Use isEmpty() to check whether the collection is empty or not.(Åå §
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(‰­‘¢
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(§ÄÎı
+T
+squid:S106."9Replace this use of System.out or System.err by a logger.(Æ şûÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûäôšùÿÿÿÿ
